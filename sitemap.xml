@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://infectiouscoding.com/infectiouscoding/blog/2013/09/04/first-time-running-raspberry-pi/
+        </loc>
+        <lastmod>2013-09-04T07:57:29-04:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://infectiouscoding.com/infectiouscoding/blog/2013/09/04/add-font-awesome-to-octopress/
+        </loc>
+        <lastmod>2013-09-04T08:43:58-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://infectiouscoding.com/infectiouscoding/robots.txt</loc>
+        <lastmod>2013-09-04T07:57:29-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://infectiouscoding.com/infectiouscoding/blog/archives/</loc>
+        <lastmod>2013-09-04T08:43:58-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://infectiouscoding.com/infectiouscoding/about/</loc>
+        <lastmod>2013-09-04T07:57:29-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://infectiouscoding.com/infectiouscoding/</loc>
+        <lastmod>2013-09-04T08:43:58-04:00</lastmod>
+    </url>
+</urlset>
