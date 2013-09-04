@@ -1,3 +1,5 @@
+$why: url('/infectiouscoding/images/why3.png') 65px 16px no-repeat;
+
 .icon-1 {
 	font-size: 2em;
 }
@@ -47,7 +49,7 @@
 div.gittip-widget {
 	width: 125px;
 	// background: yellow url('/images/why3.png') 65px 16px no-repeat;
-	background: url('/images/why3.png') 65px 16px no-repeat;
+	background: $why;
 	border: solid 1px;
 }
 
