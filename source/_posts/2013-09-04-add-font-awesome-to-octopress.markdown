@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Add Font Awesome to Octopress"
+title: "Adding Font Awesome to Octopress"
 date: 2013-09-04 08:32
 comments: true
 categories: 
