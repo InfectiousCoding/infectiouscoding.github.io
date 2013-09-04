@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Infectious Coding]]></title>
-  <link href="http://infectiouscoding.github.io/atom.xml" rel="self"/>
-  <link href="http://infectiouscoding.github.io/"/>
-  <updated>2013-09-04T12:53:25-04:00</updated>
-  <id>http://infectiouscoding.github.io/</id>
+  <link href="http://infectiouscoding.com/atom.xml" rel="self"/>
+  <link href="http://infectiouscoding.com/"/>
+  <updated>2013-09-04T12:58:41-04:00</updated>
+  <id>http://infectiouscoding.com/</id>
   <author>
     <name><![CDATA[GogromaT]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Adding Font Awesome to Octopress]]></title>
-    <link href="http://infectiouscoding.github.io/blog/add-font-awesome-to-octopress/"/>
+    <link href="http://infectiouscoding.com/blog/add-font-awesome-to-octopress/"/>
     <updated>2013-09-04T08:32:00-04:00</updated>
-    <id>http://infectiouscoding.github.io/blog/add-font-awesome-to-octopress</id>
+    <id>http://infectiouscoding.com/blog/add-font-awesome-to-octopress</id>
     <content type="html"><![CDATA[<p><a href="https://gist.github.com/danielres/3157685">This gist</a> together with <a href="http://avivkiss.com/blog/2013/03/03/using-font-awesome-with-octopress-how-to/">this post</a> and <a href="http://nesterchung.github.io/blog/2013/05/23/use-font-awesome-on-octopress/">this post</a> explaining how to add Font Awesome to Octopress simply don&rsquo;t work :[</p>
 
 <p>Here are precise steps you have to take to make Font Awesome work.</p>
@@ -48,9 +48,9 @@ so it becomes <code>OctoBlog/source/font</code>.</p></li>
   
   <entry>
     <title type="html"><![CDATA[First time running Raspberry Pi]]></title>
-    <link href="http://infectiouscoding.github.io/blog/first-time-running-raspberry-pi/"/>
+    <link href="http://infectiouscoding.com/blog/first-time-running-raspberry-pi/"/>
     <updated>2013-09-04T01:21:00-04:00</updated>
-    <id>http://infectiouscoding.github.io/blog/first-time-running-raspberry-pi</id>
+    <id>http://infectiouscoding.com/blog/first-time-running-raspberry-pi</id>
     <content type="html"><![CDATA[<p>This is a simple guide to setup Raspberry Pi.
 For more advanced and detailed support you can try <a href="http://elinux.org/RPi_Beginners" title="RPi Beginners Guide">the RPi Beginners guide</a>.</p>
 

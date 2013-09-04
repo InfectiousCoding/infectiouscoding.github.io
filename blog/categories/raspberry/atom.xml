@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: raspberry | Infectious Coding]]></title>
-  <link href="http://infectiouscoding.github.io/blog/categories/raspberry/atom.xml" rel="self"/>
-  <link href="http://infectiouscoding.github.io/"/>
-  <updated>2013-09-04T12:53:25-04:00</updated>
-  <id>http://infectiouscoding.github.io/</id>
+  <link href="http://infectiouscoding.com/blog/categories/raspberry/atom.xml" rel="self"/>
+  <link href="http://infectiouscoding.com/"/>
+  <updated>2013-09-04T12:58:41-04:00</updated>
+  <id>http://infectiouscoding.com/</id>
   <author>
     <name><![CDATA[GogromaT]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First time running Raspberry Pi]]></title>
-    <link href="http://infectiouscoding.github.io/blog/first-time-running-raspberry-pi/"/>
+    <link href="http://infectiouscoding.com/blog/first-time-running-raspberry-pi/"/>
     <updated>2013-09-04T01:21:00-04:00</updated>
-    <id>http://infectiouscoding.github.io/blog/first-time-running-raspberry-pi</id>
+    <id>http://infectiouscoding.com/blog/first-time-running-raspberry-pi</id>
     <content type="html"><![CDATA[<p>This is a simple guide to setup Raspberry Pi.
 For more advanced and detailed support you can try <a href="http://elinux.org/RPi_Beginners" title="RPi Beginners Guide">the RPi Beginners guide</a>.</p>
 
