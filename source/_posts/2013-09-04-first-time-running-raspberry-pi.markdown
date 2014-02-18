@@ -13,7 +13,7 @@ For more advanced and detailed support you can try [the RPi Beginners guide][3].
 
 To work with raspberry pi, you most likely would need:
 
-* Raspberry Pi, obviously :p
+* Raspberry Pi :p
 
   You can get it on [Newegg][8] | [Amazon][21] | [Allied Electronics][24] | [Adafruit][22]. 
   You can also try buying a full [kit at Adafruit][23].
@@ -46,7 +46,7 @@ To work with raspberry pi, you most likely would need:
  
   [This Logitech mouse & keyboard should do][16].
 
-  *Not all wireless keyboards/mice would work perfectly with Rapsberry Pi. In fact the wireless keyboard that I used worked so badly that I had to type in pi/raspberry login combination up to 10 times :s On the other hand wireless mouse gave me no trouble, but who knows...*
+  *Not all wireless keyboards/mice would work perfect enough with Rapsberry Pi. In fact the wireless keyboard that I used worked so badly that I had to type in pi/raspberry login combination up to 10 times :s On the other hand wireless mouse gave me no trouble, but who knows...*
 
 * microUSB cable.
  
@@ -121,7 +121,9 @@ F.A.Q.
 
 * *If I unplug a USB device from Raspberry Pi, it restarts!*
 
- This is expected. It is called '[the rush in current problem][2]'. Essentially only use USB hub for plugging in devices that you are going to remove frequently, otherwise a sudden voltage spikes will cause Raspberry Pi to reboot. That is why USB hub should be powered.
+ This is an expected behavior. It is called '[the rush in current problem][2]'.
+ Only use USB hub for plugging in devices that you are going to remove often. Otherwise a sudden voltage spikes will cause Raspberry Pi to reboot. 
+ That is why USB hub should have power on.
 
 * *I plug in Raspberry to HDMI monitor and see nothing :(*
 

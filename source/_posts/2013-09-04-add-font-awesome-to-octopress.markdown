@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-[This gist][2] together with [this post][3] and [this post][4] explaining how to add Font Awesome to Octopress simply don't work :[ 
+[This gist][2] together with [this post][3] and [this post][4] explaining how to add Font Awesome to Octopress just does not work :[ 
 
 Here are precise steps you have to take to make Font Awesome work.
 
@@ -27,10 +27,11 @@ Here are precise steps you have to take to make Font Awesome work.
 
 * Save files that you have modified.
 
-* Now you can use Font Awesome! Simply add any icon like so:
-  `<i class="icon-flag"></i> icon-flag` 
+* Now you can use Font Awesome! Just add any icon like so:
+  - `<i class="fa fa-flag"></i> fa-flag`   (Font Awesome V 4+)
+  - `<i class="icon-flag"></i> icon-flag`  (Font Awesome V 3.2.1-)
 
-* `Ctrl`+`F5` to refresh the page and cache.
+* Hit `Ctrl`+`Shift`+`F5` to refresh the page and cache.
 
 P.S.
 
