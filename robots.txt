@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://InfectiousCoding.github.io/sitemap.xml 
