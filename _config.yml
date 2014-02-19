@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://InfectiousCoding.github.io/InfectiousCoding
+url: http://InfectiousCoding.github.io
 title: Infectious Coding
 subtitle: A blog by hacker for hackers.
 author: GogromaT
@@ -26,10 +26,10 @@ email: gogromat@gmail.com
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /infectiouscoding
+root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public/infectiouscoding
+destination: public/
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
