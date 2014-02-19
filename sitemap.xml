@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://InfectiousCoding.github.io/blog/2013/09/04/first-time-running-raspberry-pi/
+        </loc>
+        <lastmod>2014-02-17T23:41:13-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://InfectiousCoding.github.io/blog/2013/09/04/add-font-awesome-to-octopress/
+        </loc>
+        <lastmod>2014-02-17T23:36:21-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://InfectiousCoding.github.io/blog/2014/02/16/silent-coding/</loc>
+        <lastmod>2014-02-17T23:35:45-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://InfectiousCoding.github.io/</loc>
+        <lastmod>2014-02-17T23:41:13-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://InfectiousCoding.github.io/blog/archives/</loc>
+        <lastmod>2014-02-17T23:41:13-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://InfectiousCoding.github.io/about/</loc>
+        <lastmod>2014-02-16T15:43:14-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://InfectiousCoding.github.io/robots.txt</loc>
+        <lastmod>2014-02-16T15:43:14-05:00</lastmod>
+    </url>
+</urlset>
